@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehifoigu.github.io/Asm/sitemap_index.txt
+Sitemap: https://ehifoigu.github.io/JrV/sitemap_index.txt
+Sitemap: https://ehifoigu.github.io/aYE/sitemap_index.txt
+Sitemap: https://ehifoigu.github.io/wUy/sitemap_index.txt
